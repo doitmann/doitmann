@@ -4,7 +4,7 @@
 - 📝 My Personal Work is Machine Learning
 - 💞️ I’m looking to collaborate on Lasso
 - 📫 How to reach me is by smoke signals
-- 😄 Pronouns: xx/xxx
+- 😄 Pronouns: xxx/xxx
 - ⚡ Fun fact: Apollo is the god of knowledge and truth. Athena is the goddess of wisdom.
 
 <!---
