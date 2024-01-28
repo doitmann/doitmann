@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @doitmann
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning Data Structures and Algorithms
-- 📝 My Personal Work is on Machine Learning
+- 📝 My Personal Work is Machine Learning
 - 💞️ I’m looking to collaborate on Lasso
 - 📫 How to reach me is by smoke signals
 - 😄 Pronouns: xx/xxx
