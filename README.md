@@ -4,7 +4,7 @@
 - 📝 My Personal Work is Machine Learning
 - 💞️ I’m looking to collaborate on whatever
 - 📫 How to reach me is by smoke signals
-- ⚡ Fun fact: Apollo is the god of knowledge. Athena is the goddess of wisdom.
+- ⚡ Fun fact: Apollo
 
 <!---
 doitmann/doitmann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
