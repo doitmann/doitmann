@@ -4,7 +4,7 @@
 - 📝 My Personal Work is Machine Learning
 - 💞️ I’m looking to collaborate on whatever
 - 📫 How to reach me is by smoke signals
-- ⚡ Fun fact: Apollo
+- ⚡ Fun fact: 🤠🐸
 
 <!---
 doitmann/doitmann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
