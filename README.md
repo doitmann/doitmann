@@ -6,7 +6,7 @@
 - 📫 How to reach me is by smoke signals
 - ⚡ Fun fact: 🤠🐸
 
-https://github.com/doitmann/doitmann/assets/143921581/221a154d-e499-41fd-a112-261971693a1d
+https://github.com/doitmann/doitmann/assets/143921581/8cc3a519-62c3-4cc3-b04b-a117816a8636
 
 <!---
 doitmann/doitmann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
